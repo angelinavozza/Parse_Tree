@@ -1,13 +1,9 @@
 /**
  * @file main.c
  * @author Angelina Vozza
- * @section 1
  * @date 2024-04-23
- * @note I completed Part 1, including the extra credit by adding the '/' and '-' operators.
- *       I completed Part 2.
- *       I completed the first task of Part 3 by converting an infix expression to postfix.
- * @assingnment 8
  */
+
 #include"tree.h"
 
 int main(){
